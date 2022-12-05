@@ -1,0 +1,19 @@
+:root {
+  --cell-size: 60px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  border: 1px solid black;
+}

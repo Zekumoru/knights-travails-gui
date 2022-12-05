@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+body > p {
+  font-size: 1.2rem;
+}
+
 table {
   border-collapse: collapse;
 }

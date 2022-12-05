@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.0.96",
+    "@zekumoru-dev/knights-travails": "^1.0.1",
     "normalize.css": "^8.0.1"
   },
   "lint-staged": {
